@@ -19,7 +19,7 @@ import java.util.Map;
  */
 public class XxlJobRemotingUtil {
     private static Logger logger = LoggerFactory.getLogger(XxlJobRemotingUtil.class);
-    public static final String XXL_JOB_ACCESS_TOKEN = "XXL-JOB-ACCESS-TOKEN";
+    public static final String XXL_JOB_ACCESS_TOKEN = "Portal-AccessToken";
 
 
     // trust-https start
